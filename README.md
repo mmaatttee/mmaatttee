@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mmaatttee
 - 👀 I’m interested in no-code and lo-code development and implementation (mainly Airtable, Softr, Bubble, Integromat, Zapier)
-- 🌱 I’m currently learning JavaScript in its API scripting functionality (Google Scripting, Airtable Scripting, etc.)
-- 💞️ I’m openly looking to consult or work in-house on autoamtions, workflow improvement, integrations, and in general anything that makes redundant work a thing of the past!
+- 🌱 Always improving my JavaScript chops, especially in its API scripting functionality (Google Scripting, Airtable Scripting, etc.)
+- 💞️ I’m openly looking to consult or work in-house on automations, workflow improvement, integrations, and in general anything that makes redundant work a thing of the past!
 - 📫 How to reach me matteo.cossu@gmail.com
 
 <!---
